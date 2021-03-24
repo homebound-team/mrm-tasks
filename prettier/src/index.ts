@@ -14,6 +14,7 @@ function task() {
       printWidth: 120,
     },
   });
+  pkg.save();
   install("prettier");
 }
 
