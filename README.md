@@ -8,11 +8,6 @@ The tasks need to be installed first:
 
 ```
 npm install -g mrm
-npm install -g @homebound/mrm-tasks-prettier \
-  @homebound/mrm-tasks-gitignore \
-  @homebound/mrm-tasks-typescript \
-  @homebound/mrm-tasks-circleci \
-  @homebound/mrm-tasks-semantic-release
 ```
 
 And then after that you can apply each one to your project:
